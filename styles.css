@@ -497,11 +497,6 @@ section .button button:hover {
   color: #faf9fd;
 }
 
-/* Styling for the percentage within the boxes */
-.skills-details .boxes .per {
-  font-size: 60px;
-  color: #603cff;
-}
 
 /* My Services CSS */
 /* Styling for the services section background image */
